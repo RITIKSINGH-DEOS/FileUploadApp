@@ -10,6 +10,6 @@ exports.cloudinaryConnect = () => {
         })
     }
     catch (error) {
-        console.log(err);
+        console.log(err `"name"`);
     }
 }
